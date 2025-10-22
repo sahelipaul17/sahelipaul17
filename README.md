@@ -7,21 +7,21 @@
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
 I'm a backend developer with **4+ years of experience** building scalable systems, AI-powered applications, and cloud-native solutions.
 
 My core expertise lies in:
-- 🚀 Node.js, Next.js, Python
-- ☁️ AWS (S3, EventBridge)
-- 🧠 AI Agent Development with LLMs (Groq, OpenAI)
-- 🗃️ MongoDB, PostgreSQL
+- Node.js, Next.js, Python
+- AWS (S3, EventBridge)
+- AI Agent Development with LLMs (Groq, OpenAI)
+- MongoDB, PostgreSQL
 
 I enjoy creating intelligent systems that solve real-world problems and improve developer workflows.
 
 ---
 
-## 💡 Key Projects & Achievements
+## Key Projects & Achievements
 
 ### 🔹 AI Weather Assistant 🌦️
 A custom LLM-powered CLI agent that:
@@ -30,8 +30,8 @@ A custom LLM-powered CLI agent that:
 - Supports tool invocation flow: **plan → act → observe → think → respond**
 - Built with **Bun**, **Groq SDK**, and OpenWeatherMap API
 
-🧠 Agent logic built from scratch using custom function routing.  
-📁 [Project Source Code](https://github.com/sahelipaul17/ai-agent-weather) *(or update link to correct repo)*
+Agent logic built from scratch using custom function routing.  
+[Project Source Code](https://github.com/sahelipaul17/ai-agent-weather) *(or update link to correct repo)*
 
 ---
 
@@ -57,24 +57,24 @@ Live video streaming with:
 
 ---
 
-## 🛠 Core Strengths
+## Core Strengths
 
-- 🧱 Scalable Backend Architecture
-- 🧠 AI/LLM Integration & Custom Agents
-- ☁️ Cloud-Native Development (AWS, Azure)
-- 🔍 Analytical Thinking & Problem Solving
-- ⚡ Quick Learner & Adaptable
+- Scalable Backend Architecture
+- AI/LLM Integration & Custom Agents
+- Cloud-Native Development (AWS, Azure)
+- Analytical Thinking & Problem Solving
+- Quick Learner & Adaptable
 
 ---
 
-## 🧳 Previous Work
+## Previous Work
 
 - **WayCool Product Suite**: Built platforms like AP360, Trip Management, WayCool TV
 - **Simplified Pvt Ltd / Gios Pvt Ltd**: Web applications with PHP, Node.js, MySQL
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 I'm open to collaboration, freelance opportunities, and full-time roles in AI, backend development, or cloud engineering.
 
